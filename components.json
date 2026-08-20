@@ -1,0 +1,7 @@
+{
+  "style": "default",
+  "rsc": true,
+  "tsx": true,
+  "tailwind": { "cssVariables": true },
+  "aliases": { "components": "@/components", "utils": "@/lib/utils" }
+}
